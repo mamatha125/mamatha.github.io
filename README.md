@@ -1,3 +1,12 @@
-index.html
-style.css
-script.js
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Demo Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <button onclick="showMessage()">Click Me</button>
+    <script src="script.js"></script>
+</body>
+</html>
